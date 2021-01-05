@@ -1,0 +1,4 @@
+config/yolov3.weights
+.vscode
+__pycache__
+images/*
